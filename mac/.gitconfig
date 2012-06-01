@@ -10,7 +10,7 @@
   wdc = diff --word-diff --cached
   dc = diff --cached
 [github]
-  user = phuongnd08
+  user = khacanh
 [color]
   diff = auto
   status = auto
