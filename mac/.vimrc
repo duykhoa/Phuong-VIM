@@ -185,3 +185,5 @@ autocmd BufWinLeave * call clearmatches()
 autocmd BufWritePre * :%s/\s\+$//e
 
 set hlsearch
+
+set guioptions-=r
